@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Travel-Places-About/static/css/main.a65f15c4.css",
+    "main.js": "/Travel-Places-About/static/js/main.6235c6fe.js",
+    "static/js/453.b9b4a01c.chunk.js": "/Travel-Places-About/static/js/453.b9b4a01c.chunk.js",
+    "static/media/home-bg.jpg": "/Travel-Places-About/static/media/home-bg.b433f02710c26d6b3a22.jpg",
+    "static/media/tour-img06.jpg": "/Travel-Places-About/static/media/tour-img06.61ab969a7f3f172fa8c0.jpg",
+    "static/media/tour-img05.jpg": "/Travel-Places-About/static/media/tour-img05.f86cd200463751a5e2ed.jpg",
+    "static/media/tour-img02.jpg": "/Travel-Places-About/static/media/tour-img02.4094c02b469d48da4dfb.jpg",
+    "static/media/tour-img03.jpg": "/Travel-Places-About/static/media/tour-img03.67d4e55212aa6fc6661c.jpg",
+    "static/media/tour-img07.jpg": "/Travel-Places-About/static/media/tour-img07.35a4d493feed183aa360.jpg",
+    "static/media/tour-img01.jpg": "/Travel-Places-About/static/media/tour-img01.ebe022b6df0c82aeec72.jpg",
+    "static/media/tour-img04.jpg": "/Travel-Places-About/static/media/tour-img04.e9b40920b0c3a962bce9.jpg",
+    "static/media/contact-img.png": "/Travel-Places-About/static/media/contact-img.e6452317271dbdc6111b.png",
+    "static/media/about-img.jpg": "/Travel-Places-About/static/media/about-img.bdd6b9e8f26c1ac8d933.jpg",
+    "static/media/travel-img2.jpeg": "/Travel-Places-About/static/media/travel-img2.85e52ab12f7d9f97ea83.jpeg",
+    "static/media/travel-Img.jpg": "/Travel-Places-About/static/media/travel-Img.ba45b46475911afba169.jpg",
+    "index.html": "/Travel-Places-About/index.html",
+    "main.a65f15c4.css.map": "/Travel-Places-About/static/css/main.a65f15c4.css.map",
+    "main.6235c6fe.js.map": "/Travel-Places-About/static/js/main.6235c6fe.js.map",
+    "453.b9b4a01c.chunk.js.map": "/Travel-Places-About/static/js/453.b9b4a01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a65f15c4.css",
+    "static/js/main.6235c6fe.js"
+  ]
+}
