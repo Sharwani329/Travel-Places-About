@@ -1,0 +1,91 @@
+body{
+    overflow-x: hidden;
+}
+#hero img{
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+}
+.home-text h1{
+    text-align:center;
+    padding: 10rem;
+    margin-top: -37rem;
+    font-size:2.5rem;
+    font-weight:bolder;
+    margin-left: 27rem;
+    color: black;
+font-family: Papyrus, fantasy;
+    /* font-family:'Courier New', Courier, monospace; */
+}
+@media screen and (max-width:769px){
+    .home-text h1{
+        font-size:2rem;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin-left: 11rem;
+        padding: 8rem;
+    }
+    #hero img{
+        height: 100vh;
+        width: 100%;
+        object-fit:fill;
+    }
+
+}
+/* -----------------------------------------About page ------------------------------------------------ */
+#about-hero img{
+height: 70vh;
+width: 100%;
+object-fit: cover;
+}
+#about-hero h1{
+    text-align: center;
+    color: white;
+    margin-top: -13rem; 
+    font-size: 3.7rem;
+}
+
+/* -----------------------------------------places page ------------------------------------------------ */
+
+#place-hero img{
+    height: 60vh;
+    width: 50%;
+    margin-top: 6rem;
+}
+.place-text h1{
+    margin-left: 50rem;
+    margin-top: -15rem;
+    margin-right: 12rem;
+    color: #530378;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+@media screen and (max-width:769px){
+    #place-hero img{
+    width: 70%;
+    height: 60vh;
+    content: url('../Assets/travel-Img.jpg');
+    margin-left: 5rem;
+    }
+    .place-text h1{
+        display: none;
+    }
+
+}
+/* -----------------------------------------contact page ------------------------------------------------ */
+#contact-hero img{
+    height: 60vh;
+    width: 100%;
+
+}
+.contact-text h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: -13rem;
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+}
+@media screen and (max-width:769px){
+    #contact-hero img{
+        width: 100%;
+        object-fit: cover;
+    }
+}
